@@ -1,6 +1,6 @@
 // import Fighter from '../Fighter';
 
-//initial commit
+// initial commit
 
 // abstract class Battle {
 //   constructor(protected player: Fighter) { }
