@@ -4,11 +4,11 @@ export default interface Fighter {
   lifePoints: number,
   strength: number,
   defense: number,
-  energy?: Energy, // deve ser opcional
+  energy?: Energy, 
 
   attack(enemy: Fighter) : void
 
-  special?(enemy: Fighter) : void // deve ser opcional
+  special?(enemy: Fighter) : void
 
   levelUp() : void
 
