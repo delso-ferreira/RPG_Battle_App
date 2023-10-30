@@ -62,7 +62,7 @@ export default class Character implements Fighter {
     return this._lifePoints;    
   }
 
-  attack(enemy : Fighter) : void {
+  attack(enemy : SimpleFighter) : void {
     const attack = this._strength;
 
     enemy.receiveDamage(attack);
