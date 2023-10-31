@@ -1,4 +1,4 @@
-<h1>RPG Battle 🧙 ⚔️ 🧝</h1>h
+<h1>RPG Battle 🧙 ⚔️ 🧝</h1>
 
 Este projeto é um jogo de RPG (Role-Playing Game) onde foram aplicados os princípios de Programação Orientada a Objetos (POO) e SOLID. O projeto foi desenvolvido como parte do curso de Desenvolvimento Web da Trybe.
 
